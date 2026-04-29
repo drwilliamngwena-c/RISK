@@ -1,0 +1,2 @@
+# RISK
+EAD,LGD,PD
